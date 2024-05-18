@@ -1,0 +1,29 @@
+{
+    "theme_1": {
+        "Que haces hoy?": [
+            "Estoy progrmando",
+            "Estoy progrmando en python",
+            "Estoy progrmando en java",
+            "Estoy progrmando en c++"
+        ],
+        "Que hiciste ayer?": [
+            "Ayer programe en html",
+            "Ayer programe en go",
+            "Ayer programe en apache"
+        ]
+    },
+    "theme_2": {
+        "Que haces hoy?": [
+            "Estoy progrmando"
+        ]
+    },
+    "theme_3": {
+        "Que hiciste el sabado": [
+            "Programe con cv2"
+        ],
+        "Que hiciste el domingo": [
+            "Programe con cv2",
+            "Programe con cv2 y pandas"
+        ]
+    }
+}
