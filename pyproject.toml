@@ -7,8 +7,13 @@ authors = ["Juan Manuel <jmcamporevelo@unicauca.edu.co>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^2.2.2"
-torch = "^2.3.0"
 trafilatura = "^1.9.0"
+nltk = "^3.8.1"
+plotly = "^5.22.0"
+pytube = "^15.0.0"
+pip-system-certs = "^4.0"
+python-certifi-win32 = "^1.6.1"
+wikipedia = "^1.4.0"
 
 [tool.poetry.dev-dependencies]
 
